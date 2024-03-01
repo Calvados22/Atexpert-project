@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url('../assets/bg.jpg'); /* Adjust the path based on your project structure */
+    background-size: cover;
+    background-position: center;
+  }
+  

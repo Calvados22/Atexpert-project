@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url('../assets/bg.jpg'); /* Adjust the path based on your project structure */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.8); /* Add background color with opacity */
+    border-radius: 10px; /* Add border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add box shadow */
+  }
+  
